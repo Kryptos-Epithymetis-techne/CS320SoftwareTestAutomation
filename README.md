@@ -17,6 +17,7 @@ My software design approach follows object-oriented principles and emphasizes mo
 Skills Demonstrated
 
 Unit testing with JUnit
+
 Test-driven development practices
 Input validation and error handling
 Object-oriented design principles
@@ -25,6 +26,9 @@ Requirements analysis and traceability
 Defensive programming techniques
 
 Contact
+
 James Michael Martin
+
 martinjamesmichael@gmail.com
+
 james.martin20@snhu.edu
